@@ -31,7 +31,7 @@ body{
 .visor{
     background: black;
     opacity: 1;
-    height: 120px;
+    height: 90px;
     border-radius: 8px;
     display: flex;
     align-items: center;
